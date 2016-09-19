@@ -1,6 +1,6 @@
 # Java-Based-DNA-Transcription-Translation
 
-Takes a nucleotide sequences and returns the mRNA, Complementary strand, reading frame and amino acid sequence.
+Takes a nucleotide sequence and returns the mRNA, Complementary strand, reading frame and amino acid sequence.
 Program mimics the cell's transcription and Translation process.
 
 Only legal inputs are "G", "C", "A" and "T".
